@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.bg{
+    background-color: rgb(221, 156, 156);
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+
+}
+
+.bg#cool{
+    font-size: 24px;
+}
+
+#div1{
+    font-size: 36px;
+    color: #0307f0;
+}
+
+#div2{
+    background-color: #0af10a;
+    font-weight: bold;
+    font-size: 24px;
+}
